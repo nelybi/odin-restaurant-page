@@ -63,21 +63,6 @@ npx webpack
 Your production-ready code will be available in the dist/ folder.
 Project Structure
 
-odin-restaurant-page/
-│
-├── src/
-│ ├── index.js # Main entry point
-│ ├── home.js # Home page module
-│ ├── menu.js # Menu page module
-│ ├── contact.js # Contact page module
-│ ├── template.html # HTML template
-│ └── style.css # Global styles
-│
-├── dist/ # Webpack output (generated)
-├── package.json
-├── webpack.config.js
-├── .gitignore
-└── README.md
 Author: @nelybi
 
 Part of The Odin Project’s JavaScript curriculum.
